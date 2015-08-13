@@ -1,0 +1,5 @@
+<configuration plugin="listadmins">
+	<settings name="commands">
+		<set name="listadmins">80</set>
+	</settings>
+</configuration>
